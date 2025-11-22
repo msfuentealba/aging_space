@@ -2,10 +2,10 @@
 Analysis of biological age changes during spaceflight
 
 
-**data.csv**
+**Project_EpigeneticClocks_EPICv2custom.csv**
 
 Contains epigenetic age metrics and system-specific biological ages for astronauts across several mission timepoints.
 
-**all_analyses.R**
+**Scripts.R**
 
 R script performing statistical comparisons and generating figures.
