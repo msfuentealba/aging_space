@@ -6,6 +6,6 @@ Analysis of biological age changes during spaceflight
 
 Contains epigenetic age metrics and system-specific biological ages for astronauts across several mission timepoints.
 
-**Scripts.R**
+**scripts.R**
 
 R script performing statistical comparisons and generating figures.
